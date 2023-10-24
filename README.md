@@ -1,2 +1,2 @@
-# record_public
+# swiftUI_Tutrial
 その名の通り。
